@@ -1,4 +1,4 @@
 # The Idea
 
-Basic boilerplate to get started slicing so you don't need to think about configuration.
+Home appliance sales app like IKEA which is built using the tailwind css framework
 
